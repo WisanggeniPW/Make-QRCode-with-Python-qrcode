@@ -8,4 +8,6 @@ _Source Code_
     
     * WisangLinkedIn-QR.png -- Output from the code that is my LinkedIn QRCode
 
+      ![Example](https://raw.githubusercontent.com/WisanggeniPW/Make-QRCode-with-Python-qrcode/master/WisangLinkedIn-QR.png)
+
 Keep learning guys!
